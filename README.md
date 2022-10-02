@@ -1,16 +1,6 @@
-# film_site
+#Flutter-search-app
 
-A new Flutter project.
+##Presentation(GIF)
 
-## Getting Started
+![search-app_mZQ3uEG0](https://user-images.githubusercontent.com/92163203/193460083-2d710a82-10f8-4345-a83d-6969e3636aae.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
